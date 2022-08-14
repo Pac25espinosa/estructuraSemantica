@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: brown;
+}
+
+.azul{
+    background-color: blue;
+
+}
+
+.altura1{
+    height: 100px;
+    background-color: blue;
+}
+
+.centrar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.rosada{
+    background-color: pink;
+}
+
+.morado{
+    background-color: blueviolet;
+}
+
+.verde{
+    background-color: green  ;
+}
+
+.altura3{
+    height: 150px;
+
+}
